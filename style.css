@@ -5,3 +5,8 @@
 #title {
     font-family: 'Source Code Pro', monospace;
 }
+
+/* Title Icon */
+#title-i {
+    padding-top: 10%;
+}
